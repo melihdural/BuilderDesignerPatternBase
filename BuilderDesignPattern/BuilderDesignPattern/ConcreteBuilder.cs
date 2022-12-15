@@ -2,13 +2,15 @@ namespace BuilderDesignPattern;
 
 public class ConcreteBuilder : IBuilder
 {
+    private ProductA _productA;
     public void BuildPart()
     {
-        GetResult();
+        _productA = new ProductA("ProductA");
+        GetResult(_productA);
     }
 
-    void GetResult()
+    ProductA GetResult(ProductA a)
     {
-        Console.WriteLine("a");
+        return a;
     }
 }
