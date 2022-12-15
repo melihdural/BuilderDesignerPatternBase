@@ -1,0 +1,15 @@
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.deps.json
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.runtimeconfig.json
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net6.0/BuilderDesignPattern.pdb
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.csproj.AssemblyReference.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.AssemblyInfoInputs.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.AssemblyInfo.cs
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.csproj.CoreCompileInputs.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/refint/BuilderDesignPattern.dll
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.pdb
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/BuilderDesignPattern.genruntimeconfig.cache
+/Users/melihdural/Documents/Repos/DesignPatterns/BuilderDesignerPatternBase/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net6.0/ref/BuilderDesignPattern.dll
